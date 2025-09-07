@@ -1,6 +1,6 @@
 import {
   RemixBrowser
-} from "/build/_shared/chunk-OEO3PO3H.js";
+} from "/build/_shared/chunk-6267OFIW.js";
 import {
   require_react_dom
 } from "/build/_shared/chunk-7BM7HZWW.js";
@@ -67,4 +67,4 @@ if (typeof requestIdleCallback === "function") {
 } else {
   setTimeout(hydrate, 1);
 }
-//# sourceMappingURL=/build/entry.client-WV4ASKYU.js.map
+//# sourceMappingURL=/build/entry.client-3MU5DUSC.js.map

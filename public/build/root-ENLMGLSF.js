@@ -5,7 +5,7 @@ import {
   Outlet,
   Scripts,
   ScrollRestoration
-} from "/build/_shared/chunk-OEO3PO3H.js";
+} from "/build/_shared/chunk-6267OFIW.js";
 import {
   __toESM,
   require_jsx_dev_runtime
@@ -88,4 +88,4 @@ export {
   links,
   meta
 };
-//# sourceMappingURL=/build/root-RRBXRPTR.js.map
+//# sourceMappingURL=/build/root-ENLMGLSF.js.map
