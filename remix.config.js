@@ -1,9 +1,6 @@
 /** @type {import('@remix-run/dev').AppConfig} */
 module.exports = {
-  future: {
-    unstable_tailwind: true,
-  },
-  serverBuildTarget: "netlify",
+  serverBuildTarget: "vercel",
   // server: "./server.js",
   // ignoredRouteFiles: ["**/.*"],
   // appDirectory: "app",
